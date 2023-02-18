@@ -7,6 +7,7 @@ import android.os.Bundle
 
 
 //Nu kodar vi lite dev
+//Nu är vi klara med version 1.1
 
 class MainActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
