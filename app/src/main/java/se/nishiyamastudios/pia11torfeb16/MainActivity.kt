@@ -17,6 +17,10 @@ class MainActivity : AppCompatActivity() {
 
         //Jim kodar kod
     }
+
+    fun skalabild() {
+        //fin funktion!
+    }
 }
 
 
